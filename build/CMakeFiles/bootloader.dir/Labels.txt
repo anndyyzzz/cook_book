@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Andy/station/build/CMakeFiles/bootloader
+C:/Andy/station/build/CMakeFiles/bootloader.rule
+C:/Andy/station/build/CMakeFiles/bootloader-complete.rule
+C:/Andy/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Andy/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Andy/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Andy/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Andy/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Andy/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Andy/station/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
